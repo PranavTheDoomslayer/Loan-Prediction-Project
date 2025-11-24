@@ -285,18 +285,18 @@ Which factors matter most for approval?
 
 ## 👨‍💻 Author
 
-**Your Full Name** Akaksh Samdani
+Pranav Raghuvanshi
 
 🎓 **Academic Information:**
-- **Registration Number:** 25BCG10033
+- **Registration Number:** 25BCY10108
 - **College:** VIT Bhopal University
-- **Course:** B.Tech Computer Science & Engineering In Gaming Technology
+- **Course:** B.Tech Computer Science & Engineering In Cybersecurity and Digital Forensics
 - **Year:** First Year (2025-26)
 - **Semester:** 1st Semester
 
 📧 **Contact:**
-- **Email:** [akisamdani@gmail.com]
-- **GitHub:** [@akaksh001](https://github.com/akaksh001)
+- **Email:** itspranavr02@gmail.com
+- **GitHub:** https://github.com/PranavTheDoomslayer
 
 📅 **Project Date:** November 2025
 
@@ -363,4 +363,4 @@ If you found this helpful:
 
 ---
 
-**Made with by Akaksh**
+**Made by Pranav**
