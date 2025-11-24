@@ -334,7 +334,7 @@ This is a demonstration system. Real loan decisions require:
 
 **Have questions?**
 -  Read this README thoroughly
--  Email: [akisamdani@gmail.com]
+-  Email: itspranavr02@gmail.com
 
 **Found a bug?**
 - Describe the problem
